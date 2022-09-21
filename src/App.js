@@ -2,7 +2,6 @@
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 import Header from "./component/Header"
 import FeedbackList from './component/FeedbackList'
-import FeedbackData from "./data/FeedbackData"
 import FeedbackStats from "./component/FeedbackStats"
 import FeedbackForm from "./component/FeedbackForm"
 import AboutPage from "./pages/AboutPage"
